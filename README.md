@@ -1,0 +1,2 @@
+# tripmint
+Startup Project
